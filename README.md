@@ -4,6 +4,9 @@
 
 This repository contains the source code and documentation for a physical access control system. The access control device is a facial recognition access control device that uses two-camera 3D facial recognition technology to control access. The system is designed to manage and control access to physical spaces using RV1108, F1C200s, and Nuvoton chip. Also, provides physical enclosure for physical system so that you can build full physical access control system by your own.
 
+## System Configuration
+<img src="https://github.com/MiniAiLive/MiniAI-Physical-Access-Control-System/blob/main/Assets/Picture1.png" alt="Test1" width="350" />
+
 ## Dominance
 - A single stereo vision 3D camera can be used for face recognition and video chat.
 - Stereo vision 3D face recognition function
@@ -76,7 +79,7 @@ Return system settings to their initial state.
 
 ## Indoor Unit Setting
 Set the display language for the indoor unit settings interface.
-The settings are Chinese (Simplified), Chinese (Traditional), and English. The default is Chinese (Simplified).
+The settings are Chinese (Simplified), Chinese (Traditional), and English. The default is English.
 
 **Video chat function:**
 - The video conversation function is a function that allows you to monitor the front door from the indoor unit and conduct voice conversations from inside and outside the door. A video conversation can be started by pressing the power button on the indoor unit, or a guest can start it by pressing the doorbell on the outdoor unit.
