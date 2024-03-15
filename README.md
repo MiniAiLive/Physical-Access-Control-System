@@ -13,24 +13,39 @@ This repository contains the source code and documentation for a physical access
 - Human body confinement function
 - RS485/RS232, Wiegand support
 
-## Features
+## Technical characteristics
 
-- **User Authentication:** Secure user authentication mechanism like face recognition, NFC card recognition, and password recognition to control access to physical spaces.
-- **Hardware Integration:** Integration with RV1108, F1C200s, and Nuvoton chip for seamless operation and support enclosure file using solidworks file.
-- **Access Logging:** Detailed logging of access attempts and events for auditing and security purposes.
-- **Configurable Access Control Policies:** Flexible configuration options for defining access control policies.
-- **Real-time Monitoring:** Real-time monitoring of access control system status and events.
-- **Remote Management:** Remote management capabilities for system administrators.
+- CPU 1.0GHz, high-performance DSP support
+- Operating system LINUX
+- Basic functions: door opening function, video conversation function, record management function
+- Fake identification and prevention of various types of fake attacks such as 2D photos, videos, 3D models, masks, etc.
+- Usage environment Recognition possible in various lighting environments such as indoors, darkroom, and outdoors
+- Camera module stereo vision 3D camera (2 infrared cameras + 1 color camera)
+- Face recognition performance FAR≤0.00001%, FRR≤0.01%
+- Stereovision 3D face recognition using deep learning algorithm, automatic adaptation to facial changes
+- Recognition distance 30~100cm
+- Authentication time less than 0.5 seconds
+- Door opening method: face, card, password (two-factor authentication function supported)
+- Opening the door using the door opening button of the indoor unit
+- Number of registered people: 1000
+- Enclosure size 129 * 107 * 40mm
+- LCD outdoor unit LCD: 3.5 inch LCD
+- Indoor unit LCD: 3.5 inch LCD
+- Tach 3.5 inch tach
+- Human body confinement distance of 1m or more
+- Power supply characteristics Inlet voltage: 12V
+- 24-hour power supply method
+- Permission management administrator, user
+- Operating temperature -25 degrees to 70 degrees
+- Video chat function enables doorstep surveillance and simultaneous two-way voice calls within the door
 
-## Hardware Components
+## Basic functions
 
-The system 
-- **RV1108:** Description of the RV1108 and its role in the access control system.
-- **F1C200s:** Description of the F1C200s and its role in the access control system.
-- **Nuvoton Chip:** Description of the Nuvoton chip and its role in the access control system.
-- **Wiring Diagrams:** Schematic diagrams illustrating the connections between components.
+It supports video and voice conversation functions along with door opening and record management functions.
+A single stereo vision 3D camera module performs face recognition and video conversation functions.
 
-## Installation
-
-1. **Clone the Repository:**
+1. **Door opening function:**
+- There are registration and authentication functions using face, card, and password.
+- Users can open the key by registering and authenticating using any of the following methods: face, card, or password.
+- You can also open the key by pressing the door open button on the indoor unit.
 
