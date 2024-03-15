@@ -48,4 +48,7 @@ A single stereo vision 3D camera module performs face recognition and video conv
 - There are registration and authentication functions using face, card, and password.
 - Users can open the key by registering and authenticating using any of the following methods: face, card, or password.
 - You can also open the key by pressing the door open button on the indoor unit.
+2. **Record management function:**
+- All authentication records are stored in the outdoor unit, and the stored records can be viewed in the outdoor unit's system guide - records management item.
+- By selecting the USB-record output item in the outdoor unit settings, you can store all authentication records stored in the outdoor unit in XML file format along with photo data on a USB.
 
