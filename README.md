@@ -5,7 +5,7 @@
 This repository contains the source code and documentation for a physical access control system. The access control device is a facial recognition access control device that uses two-camera 3D facial recognition technology to control access. The system is designed to manage and control access to physical spaces using RV1108, F1C200s, and Nuvoton chip. Also, provides physical enclosure for physical system so that you can build full physical access control system by your own.
 
 ## System Configuration
-<img src="https://github.com/MiniAiLive/MiniAI-Physical-Access-Control-System/blob/main/Assets/Picture1.png" alt="Test1" width="650" />
+<!-- <img src="https://github.com/MiniAiLive/MiniAI-Physical-Access-Control-System/blob/main/Assets/Picture1.png" alt="Test1" width="650" /> -->
 
 ## Dominance
 - A single stereo vision 3D camera can be used for face recognition and video chat.
