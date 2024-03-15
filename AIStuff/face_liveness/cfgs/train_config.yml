@@ -1,0 +1,39 @@
+device: cuda
+
+loss_coef:  # coefficients for losses
+  clf_loss: 5.0
+  reg_loss: 5.0
+  trip_loss: 1.0
+
+lr: 0.02  # optimizer lr
+
+milestones:  # MultiStepLR scheduler params
+  - 15
+  - 25
+  - 35
+gamma: 0.3
+
+image_size: 128  # size of input image
+ft_width: 16
+ft_height: 16
+cue_log_every: 100  # will log cues every cue_log_every batches. If 0, than won't log
+
+net: "MiniFASNet" # [FASNetA, FASNetB, FASNetCV1, FeatherNetA, EfficientNet, MiniFASNet]
+root_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/'
+train_live_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/0'
+train_fake_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/1'
+train_fake_3d_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/2'
+
+test_live_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/0'
+test_fake_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/1'
+test_fake_3d_dir: '/datasets/public1/upload/datasets/face_liveness/datasets/rgb_image/2.7_128x128/2'
+
+batch_size: 96  # batch size for both validation and train dataloader
+num_workers_train: 4  # param for training dataloader
+num_workers_val: 4  # param for validation dataloader
+
+default_root_dir: null  # path to save pytorch_lightning logs
+max_epochs: 20 # max number of epochs to train (if doesn't achieved early stopping)
+
+use_balance_sampler: True  # You can try overcome class disbalance using balance sampler
+use_focal_loss: False  # You can try use focal loss instead of cross-entropy loss
