@@ -1,7 +1,14 @@
 # Physical Access Control System by MiniAiLive
 
-This repository contains the source code and documentation for a physical access control system. The system is designed to manage and control access to physical spaces using RV1108, F1C200s, and Nuvoton chip.
+## Introduction
+
+This repository contains the source code and documentation for a physical access control system. 
+The access control device is a facial recognition access control device that uses two-camera 3D facial recognition technology to control access.
+The system is designed to manage and control access to physical spaces using RV1108, F1C200s, and Nuvoton chip.
 Also, provides physical enclosure for physical system so that you can build full physical access control system by your own.
+
+## Dominance
+- **** Secure user authentication mechanism like face recognition, NFC card recognition, and password recognition to control access to physical spaces.
 
 ## Features
 
@@ -14,8 +21,7 @@ Also, provides physical enclosure for physical system so that you can build full
 
 ## Hardware Components
 
-- **Support** 
-
+The system 
 - **RV1108:** Description of the RV1108 and its role in the access control system.
 - **F1C200s:** Description of the F1C200s and its role in the access control system.
 - **Nuvoton Chip:** Description of the Nuvoton chip and its role in the access control system.
