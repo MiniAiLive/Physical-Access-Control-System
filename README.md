@@ -107,6 +107,9 @@ Once you start a video conversation, you can proceed with video and voice conver
 - Back folder contains 3D design file of back part of enclosure for this system. Support solidworks file and .step file.
 2. **AIStuff:**
 - Contains all necessary part for face recognition and face liveness detection code for this system.
+3. **Circuit:**
+- ***Face_3Key1v0:***Design of keyboard board which control 3 buttons of the indoor system.
+
 
 ## Contact US
 For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
