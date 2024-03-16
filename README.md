@@ -115,7 +115,20 @@ Once you start a video conversation, you can proceed with video and voice conver
 - Face_InMain1v0: Design of main board which use F1C chip.
 - Face_MainBack1v0: Design of outdoor back board.
 - Face_PWR1v0: Design of power management board which use N76E003 chip.
+4. **Final Firmwares:**
+- 201102_F1C100s_VD5 1.0.6: F1C firmware file.
+- N76E003_HM-1.02_20201014: Human sensor firmware file.
+- N76E003_InMain_PM_1.03: Indoor Main Board firmeware file.
+- N76E003_PowerControl_1.02-P_20200930: Power Control firmware file.
+5. **Final Firmwares:**
+- F1C200s: F1C firmware source code.
+- N76E003/N76E003_InMainPMU: Indoor main board N76E003 source code.
+- RV1108: Outdoor Main Board Source Code.
 
+## Important Note
+- This solution is already mass producted.
+- The source code is missing some important part, we didn't push those code because it is not open-source.
+- This solution can be applicable to similar project like face recognition based smart-lock, we are using this source code for our smart-lock mainly, please visit [here](https://www.youtube.com/watch?v=PxlNMM5rXlI) for confirmation.
 
 ## Contact US
 For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
