@@ -108,7 +108,7 @@ Once you start a video conversation, you can proceed with video and voice conver
 2. **AIStuff:**
 - Contains all necessary part for face recognition and face liveness detection code for this system.
 3. **Circuit:**
-- ***Face_3Key1v0:***Design of keyboard board which control 3 buttons of the indoor system.
+- Face_3Key1v0:Design of keyboard board which control 3 buttons of the indoor system.
 
 
 ## Contact US
