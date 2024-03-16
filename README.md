@@ -109,6 +109,12 @@ Once you start a video conversation, you can proceed with video and voice conver
 - Contains all necessary part for face recognition and face liveness detection code for this system.
 3. **Circuit:**
 - Face_3Key1v0: Design of keyboard board which control 3 buttons of the indoor system.
+- Face_Ant1v0: Design of Antenna board for NFC card recognition.
+- Face_HM1v0: Design of human sensor board for waking device up automatically when user access to system.
+- Face_InBack1v0: Design of indoor back board which use N76E003 chip.
+- Face_InMain1v0: Design of main board which use F1C chip.
+- Face_MainBack1v0: Design of outdoor back board.
+- Face_PWR1v0: Design of power management board which use N76E003 chip.
 
 
 ## Contact US
