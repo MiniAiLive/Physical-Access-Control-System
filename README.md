@@ -100,3 +100,19 @@ Once you start a video conversation, you can proceed with video and voice conver
 - When you press the microphone button during a video conversation, the microphone icon on the indoor unit's liquid crystal display becomes active, allowing simultaneous two-way voice calls between the indoor unit and the outdoor unit. If you press the microphone button again and the microphone icon becomes inactive, only one-way voice calls (outdoor unit - indoor unit) will be possible.
 - If you press and hold the microphone button during a video conversation, the indoor unit settings screen will appear.
 - Additionally, the video conversation timeout coefficient is reset each time the microphone button is pressed during a video conversation.
+
+## GitHub Folder Structure
+1. **3D Model:**
+- Front folder contains 3D design file of front part of enclosure for this system. Support solidworks file and .step file.
+- Back folder contains 3D design file of back part of enclosure for this system. Support solidworks file and .step file.
+2. **AIStuff:**
+- Contains all necessary part for face recognition and face liveness detection code for this system.
+
+## Contact US
+For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
+
+<p align="center">
+<a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://wa.me/+19162702374"><img src="https://img.shields.io/badge/whatsapp-MiniAiLive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://join.skype.com/invite/ltQEVDmVddTe"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
+</p>
