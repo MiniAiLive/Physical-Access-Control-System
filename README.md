@@ -131,7 +131,7 @@ Once you start a video conversation, you can proceed with video and voice conver
 - This solution can be applicable to similar project like face recognition based smart-lock, we are using this source code for our smart-lock mainly, please visit [here](https://www.youtube.com/watch?v=PxlNMM5rXlI) for confirmation.
 
 ## Contact US
-For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
+For requesting missing code and any customizable solution using this kind of techniques, please [Contact US](https://www.miniai.live/contact/)
 
 <p align="center">
 <a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
