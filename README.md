@@ -38,7 +38,7 @@ This repository contains the source code and documentation for a physical access
 - Enclosure size 129 * 107 * 40mm
 - LCD outdoor unit LCD: 3.5 inch LCD
 - Indoor unit LCD: 3.5 inch LCD
-- Tach 3.5 inch tach
+- 3.5 inch touch panel
 - Human body confinement distance of 1m or more
 - Power supply characteristics Inlet voltage: 12V
 - 24-hour power supply method
