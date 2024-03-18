@@ -6,7 +6,10 @@ This repository contains the source code and documentation for a physical access
 
 ## System Configuration
 <img src="https://github.com/MiniAiLive/MiniAI-Physical-Access-Control-System/blob/main/Assets/Picture1.png" alt="Test1" width="650" />
+
+## Real System
 <img src="https://github.com/MiniAiLive/MiniAI-Physical-Access-Control-System/blob/main/Assets/RealImage.jpg" alt="Test1" width="650" />
+
 ## Dominance
 - A single stereo vision 3D camera can be used for face recognition and video chat.
 - Stereo vision 3D face recognition function
