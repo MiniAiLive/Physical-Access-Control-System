@@ -1,5 +1,10 @@
 # Physical Access Control System by MiniAiLive
 
+## Welcome to the [MiniAiLive](https://www.miniai.live/)!
+This is the world first repository which describes full solutions for Physical Access Control Sytem containing from hardware design, Face Recognition model to deployment for
+device.
+Can be applied to face recognition based smart-lock or similar solution easily.
+
 ## Introduction
 
 This repository contains the source code and documentation for a physical access control system. The access control device is a facial recognition access control device that uses two-camera 3D facial recognition technology to control access. The system is designed to manage and control access to physical spaces using RV1108, F1C200s, and Nuvoton chip. Also, provides physical enclosure for physical system so that you can build full physical access control system by your own.
