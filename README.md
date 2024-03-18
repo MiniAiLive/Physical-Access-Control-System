@@ -1,8 +1,7 @@
 # Physical Access Control System by MiniAiLive
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-This is the world first repository which describes full solutions for Physical Access Control Sytem containing from hardware design, Face Recognition model to deployment for
-device.
+This is the world first repository which describes full solutions for Physical Access Control System containing from hardware design, Face Recognition model to deployment for device.
 Can be applied to face recognition based smart-lock or similar solution easily.
 
 ## Introduction
