@@ -1,4 +1,9 @@
-# Physical Access Control System by MiniAiLive
+
+<div align="center">
+   <h1> MiniAiLive Physical Access Control System </h1>
+   <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
+   width="300">
+</div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 This is the world first repository which describes full solutions for Physical Access Control System containing from hardware design, Face Recognition model to deployment for device.
